@@ -1,0 +1,11 @@
+{
+  "name": "AeroPulse AI - Air Quality & Pollution Prediction System",
+  "description": "Real-time conversational AI chatbot with dynamic streaming, context-aware smart suggestions, live environmental and weather tool integrations, proactive recommendations, and multi-turn session memory.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
